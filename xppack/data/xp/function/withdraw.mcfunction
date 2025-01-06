@@ -7,6 +7,6 @@ xp add @s -315 points
 # Remove bottle
 clear @s glass_bottle 1
 # Give bottle
-give @s experience_bottle[custom_data={special:1b}]
+give @s experience_bottle[custom_data={special:1b}, custom_model_data=1]
 
 tellraw @s {"color":"green","text":"Du hast 315 XP in die flasche gesteckt!!"}
