@@ -1,2 +1,4 @@
 scoreboard objectives add withdraw trigger
+scoreboard objectives add combine trigger
+
 scoreboard objectives add levels level
