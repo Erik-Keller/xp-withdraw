@@ -7,7 +7,7 @@ A Datapack that allows Players without OP to withdraw XP into an Item.
 ## Features
 
 - Withdraw XP into a bottle
-- Allows non-OP players to manage their XP
+- Combine Bottled XP into a bigger bottle
 - Simple and lightweight
 
 ## Installation
