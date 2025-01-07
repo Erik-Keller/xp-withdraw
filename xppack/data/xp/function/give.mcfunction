@@ -1,2 +1,2 @@
-summon experience_orb ~ ~ ~ {Value:315}
+summon experience_orb ^ ^ ^2 {Value:315}
 kill @s
