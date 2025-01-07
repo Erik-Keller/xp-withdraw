@@ -3,4 +3,4 @@ execute as @e[type=item,nbt={Item:{id:"minecraft:experience_bottle",count:3,comp
 execute as @e[type=item,nbt={Item:{id:"minecraft:experience_bottle",count:3,components:{"minecraft:custom_data":{special:2}}}}] at @s run return run function xp:combine/special2
 
 # warn
-tellraw @p {"color":"red","text":"Du musst genau 3 XP Flaschen eines Typs auf den Boden droppen!"}
+tellraw @p {"fallback":"Du musst genau 3 XP Flaschen eines Typs auf den Boden droppen!","translate":"xppack.messages.error.combine"}
