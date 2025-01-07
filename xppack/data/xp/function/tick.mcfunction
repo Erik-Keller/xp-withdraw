@@ -5,7 +5,7 @@ execute as @e[type=experience_bottle,nbt={Item:{components:{"minecraft:custom_da
 execute as @e[type=experience_bottle,nbt={Item:{components:{"minecraft:custom_data":{special:2}}}}] at @s run function xp:give
 
 # combine
-execute as @a[scores={combine=1..}] at @s run function xp:combine
+execute as @a[scores={combine=1..}] at @s run function xp:combine/main
 
 
 # reset
