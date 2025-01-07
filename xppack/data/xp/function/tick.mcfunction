@@ -4,3 +4,5 @@ execute as @e[type=experience_bottle,nbt={Item:{components:{"minecraft:custom_da
 # reset
 scoreboard players set @a[scores={withdraw=1..}] withdraw 0
 scoreboard players enable @a withdraw
+scoreboard players set @a[scores={combine=1..}] combine 0
+scoreboard players enable @a combine
