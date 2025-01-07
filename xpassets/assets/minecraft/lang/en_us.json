@@ -1,8 +1,8 @@
 {
-    "xppack.messages.error.no_bottle": "§cDu hast nicht keine Wasserflasche in der Hand um diesen command auszuführen!",
-    "xppack.messages.error.no_xp": "§cDu hast nicht genug XP um diesen command auszuführen!",
-    "xppack.messages.error.combine": "§cDu musst genau 3 XP Flaschen eines Typs auf den Boden droppen!",
-    "xppack.messages.confirm.withdraw": "§aDu hast 315 XP in die flasche gesteckt!",
-    "xppack.messages.confirm.combine": "§aDie 3 Flaschen wurden erfolgreich kombiniert!",
+    "xppack.messages.error.no_bottle": "§cYou dont have a bottle in your hand to run this command!",
+    "xppack.messages.error.no_xp": "§cYou donWt have enough XP to run this command!",
+    "xppack.messages.error.combine": "§cYou need to drop exactly 3 XP bottles of one type on the ground!",
+    "xppack.messages.confirm.withdraw": "§aYou have put 315 XP into the bottle!",
+    "xppack.messages.confirm.combine": "§aThe 3 bottles have been successfully combined!",
     "xppack.messages.warn.combine_penalty": " §c(2.5 Penalty!)"
 }
